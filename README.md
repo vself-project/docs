@@ -5,7 +5,7 @@
 - [Instructions](https://vself-project.gitbook.io/vself-project-documentation/v/instructions/)
 
 ## vSelf architecture layers
-![](https://github.com/vself-project/docs/blob/main/architecture-short.png
+![](https://github.com/vself-project/docs/blob/main/architecture-short.png)
 
 ## vSelf architecture C4 model
 
